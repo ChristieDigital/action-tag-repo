@@ -1,7 +1,7 @@
 name: "Tag"
 description: "tag build"
 author: "Norm Ross"
-outputs:
+outputs: 
 inputs:
   github_token:
     description: "Required for permission to tag the repo."
